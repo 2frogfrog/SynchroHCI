@@ -1,5 +1,5 @@
 # Redesigning synchro - ACE
-[logo]
+![](https://github.com/2frogfrog/SynchroHCI/blob/3517aa6a9f9eb57b5bb03aefc25e42dd9be02640/project_report/images/logo.png)
 
 ### **Problem and Design Overview**
 
