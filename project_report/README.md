@@ -6,10 +6,9 @@ For this project, we focused on streamlining task management and simplifying the
 
 
 ## **Design Walkthrough**
-For our design we chose two main tasks to focus on and work to improve. We wanted to make the lane settings more new uesr friendly, and provide a better way to import a road map. 
+For our design we chose two main tasks to focus on and work to improve. We wanted to make the lane settings more friendly to new users, and provide a better way to import a map. Through user reasearch and many sketches, we felt these were the most important fixes to Synchro. 
 #### Importing Maps
 The goal was that a user should be able to import a map directly from 3rd party services like google or apple maps or upload an image. If the image isn't clear, the user should be able to be redirected to a help page and find a way to fix the issue.
-
 #### Lane Settings
 After they have imported the map, the lane settings were the next task we chose to work on. We wanted to simplifiy the settings and add a search bar to immediately find parameters of a lane. Not only that but we wanted to clearly show which lane you have selected by highlighting it on the map as well as the header bar of the lane settings.
 
