@@ -2,6 +2,7 @@
 ![](https://github.com/2frogfrog/SynchroHCI/blob/3517aa6a9f9eb57b5bb03aefc25e42dd9be02640/project_report/images/logo.png)
 
 ### **Problem and Design Overview**
+For this project, we focused on streamlining task management and simplifying the map import process. Many users reported feeling overwhelmed by the volume of tasks displayed and noted redundancy across several of them. Additionally, importing maps was a tedious process. Users had to locate a map using a third-party service like Google Maps, take a screenshot, and manually upload it into Synchro Studios. They then had to draw lanes over the imported image to begin adjusting parameters. To address these challenges, we implemented a minimalistic design aimed at reducing cognitive load and enhancing the learning experience for our target audience.
 
 
 ### Design Walkthrough
