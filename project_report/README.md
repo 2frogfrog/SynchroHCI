@@ -9,10 +9,10 @@ For this project, we focused on streamlining task management and simplifying the
 For our design we chose two main tasks to focus on and work to improve. We wanted to make the lane settings more new uesr friendly, and provide a better way to import a road map. 
 #### Importing Maps
 The goal was that a user should be able to import a map directly from 3rd party services like google or apple maps or upload an image. If the image isn't clear, the user should be able to be redirected to a help page and find a way to fix the issue.
-![](https://github.com/2frogfrog/SynchroHCI/blob/3517aa6a9f9eb57b5bb03aefc25e42dd9be02640/project_report/images/figma_importing_maps.png)
+
 #### Lane Settings
 After they have imported the map, the lane settings were the next task we chose to work on. We wanted to simplifiy the settings and add a search bar to immediately find parameters of a lane. Not only that but we wanted to clearly show which lane you have selected by highlighting it on the map as well as the header bar of the lane settings.
-![](https://github.com/2frogfrog/SynchroHCI/blob/3517aa6a9f9eb57b5bb03aefc25e42dd9be02640/project_report/images/figma_lane_settings.png)
+
 
 
 ## Design Research 
